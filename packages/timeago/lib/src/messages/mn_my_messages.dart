@@ -1,7 +1,7 @@
 import 'package:timeago/src/messages/lookupmessages.dart';
 
 /// Mongolian Messages
-class MnMessages implements LookupMessages {
+class MnMyMessages implements LookupMessages {
   @override
   String prefixAgo() => '';
   @override
@@ -37,7 +37,7 @@ class MnMessages implements LookupMessages {
 }
 
 /// Mongolian short Messages
-class MnShortMessages implements LookupMessages {
+class MnMyShortMessages implements LookupMessages {
   @override
   String prefixAgo() => '';
   @override
